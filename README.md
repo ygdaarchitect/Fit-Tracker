@@ -1,7 +1,7 @@
 # Fit-Tracker
 A custom fit tracking application.
 A clean, responsive web application built with HTML, CSS, and JavaScript to help users track workouts, monitor daily activity, and stay on top of their fitness goals.
-
+Second Year Group Project (WPR281)
 
 
 ## Features
